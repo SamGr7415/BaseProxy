@@ -1,0 +1,16 @@
+.ru
+.su
+.vu
+.ua
+.by
+.kz
+.ge
+.am
+.az
+.md
+.tj
+.kg
+.uz
+.lt
+.lv
+.ee
